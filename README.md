@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-[VSCode](https://hudhaifa-1.github.io/Quran_Player/) + [Volar]) (and disable Vetur).
+[https://hudhaifa-1.github.io/Quran_Player/](https://hudhaifa-1.github.io/Quran_Player/) + [Volar]) (and disable Vetur).
 
 ## Customize configuration
 
