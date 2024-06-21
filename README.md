@@ -1,10 +1,9 @@
 # Quran_Player
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Live Demo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://hudhaifa-1.github.io/Quran_Player/) + [Volar]) (and disable Vetur).
 
 ## Customize configuration
 
